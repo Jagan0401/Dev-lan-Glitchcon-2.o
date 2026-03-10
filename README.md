@@ -11,26 +11,25 @@ The project consists of two main components:
 
 # Product Showcase
 
-![](screenshots/8.jpg)
+![Screenshot](./screenshots/8.jpg)
 
-![](screenshots/9.jpg)
+![Screenshot](./screenshots/9.jpg)
 
-![](screenshots/10.jpg)
+![Screenshot](./screenshots/10.jpg)
 
-![](screenshots/1.jpg)
+![Screenshot](./screenshots/1.jpg)
 
-![](screenshots/2.jpg)
+![Screenshot](./screenshots/2.jpg)
 
-![](screenshots/3.jpg)
+![Screenshot](./screenshots/3.jpg)
 
-![](screenshots/4.jpg)
+![Screenshot](./screenshots/4.jpg)
 
-![](screenshots/5.jpg)
+![Screenshot](./screenshots/5.jpg)
 
-![](screenshots/6.jpg)
+![Screenshot](./screenshots/6.jpg)
 
-![](screenshots/7.jpg)
-
+![Screenshot](./screenshots/7.jpg)
 
 
 # 1️⃣ Web Application Setup
